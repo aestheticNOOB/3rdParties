@@ -4,8 +4,9 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "node server.js"
+}
+,
   "repository": {
     "type": "git",
     "url": "git+https://dashutosh17@bitbucket.org/uniflowbackend/3rd-parties.git"
@@ -26,3 +27,4 @@
     "stripe": "^19.0.0"
   }
 }
+
